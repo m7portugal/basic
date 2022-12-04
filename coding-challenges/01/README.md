@@ -1,7 +1,7 @@
 ## :eyes: Medidas
 
 <p align="center">
-  <img src="https://github.com/d7pimenta/calculadora-app/blob/main/public/readme/calculadora.PNG" width="50%">
+  <img src="https://github.com/m7portugal/basic/blob/main/.public/01.PNG" width="50%">
 </p>
 
 
