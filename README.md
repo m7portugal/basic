@@ -1,2 +1,3 @@
 # basic
-C | C++ | C# | Java | Python | HTML | CSS | JS 
+coding-challenges: C | C++ | C# | Java | Python
+websites: HTML | CSS | JS 
