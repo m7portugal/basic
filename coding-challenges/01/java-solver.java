@@ -31,5 +31,6 @@ public class medidas {
 	    System.out.printf("AREA DO TRAPEZIO = %.4f\n", areaTrapezio);
 
 		sc.close();
+		
 	}
 }
